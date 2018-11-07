@@ -9,7 +9,7 @@ import javax.imageio.ImageIO;
 	</applet>
 */
 
-public class Diwali extends Applet{
+public class DiwaliApplet extends Applet{
 	
 	
 	Image pic1,pic2;  
